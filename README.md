@@ -6,8 +6,21 @@
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BringFeel&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BringFeel&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
-<p><b>- 🔭 Actualmente estoy trabajando en BringFeel Website</b></p>
-<p><b>- 🌱 Actualmente estoy aprendiendo Javascript</b></p>
-<p><b>- 📫 Cómo contactarme: BringFeel#8805</b></p>
-<p><b>- 😄 Pronombres: Pancho</b></p>
-<p><b>- ⚡ Dato curioso: El Diego</b></p>
+
+- 🔭 Actualmente estoy trabajando en BringFeel Website
+- 🌐 Website: [bringfeel.com](https://bringfeel.com/)
+- 🗺️ Localidad: Argentina, Buenos Aires
+- 💬 Idioma principal: Español
+  - Idioma secundario: Inglés
+- 🌱 Actualmente estoy aprendiendo Javascript
+- 😄 Pronombres: Pancho, Panchit, Fran, BringFeel
+- ⚡ Dato curioso: El Diego
+- 🌐 Comunidad: <b>[Los Fisuras](https://bringfeel.com/links/link-los-fisuras-discord)</b>\
+  \
+[![Discord](https://discordapp.com/api/guilds/703772175949234226/widget.png)](https://bringfeel.com/links/link-los-fisuras-discord)
+- 📫 Cómo contactarme:
+  
+  - Discord
+  >BringFeel#8805
+  - Mail
+  >soporte@bringfeel.com
