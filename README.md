@@ -13,7 +13,7 @@
 - 💬 Idioma principal: Español
   - Idioma secundario: Inglés
 - 🌱 Actualmente estoy aprendiendo Javascript
-- 😄 Pronombres: Pancho, Panchit, Fran, BringFeel
+- 😄 Pronombres: Pancho, Fran, BringFeel
 - ⚡ Dato curioso: El Diego
 - 🌐 Comunidad: <b>[Los Fisuras](https://bringfeel.com/links/link-los-fisuras-discord)</b>\
   \
