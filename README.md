@@ -5,8 +5,8 @@
 <p>Actualmente estoy enfocado en <b>Javascript, Html y css</b></p>
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BringFeel&layout=compact&theme=light"></p>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BringFeel&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
-<p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BringFeel&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>  </div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BringFeel&bg_color=50,790000,002A80&title_color=7BA0FE&text_color=6AA5D9)
+<p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BringFeel&layout=compact&bg_color=50,790000,002A80&title_color=7BA0FE&text_color=6AA5D9""></p>  </div>
 
  ##
   
