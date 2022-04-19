@@ -1,7 +1,9 @@
 <div align="center">
 <h1>Hola! Soy Fran o mejor conocido como BringFeel.</h1>
-<p> <img src="https://komarev.com/ghpvc/?username=BringFeel" alt="Pancho" />
-<img src="https://discordapp.com/api/guilds/952035654831845457/widget.png" alt="Pancho" /> </p>
+  
+[![PrView](https://komarev.com/ghpvc/?username=BringFeel&style=for-the-badge)](https://github.com/BringFeel)
+[![Discord](https://img.shields.io/discord/952035654831845457?color=%237289DA&style=for-the-badge)](https://discord.bringfeel.com) </p>
+  
 <p>Actualmente estoy enfocado en <b>Javascript, Html y css</b></p>
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BringFeel&layout=compact&theme=light"></p>
   
@@ -17,7 +19,7 @@
 - 🌱 Actualmente estoy aprendiendo Javascript
 - 🌐 Soporte: <b>[BringFeel Dev.](https://discord.bringfeel.com)</b>\
   \
-[![Discord](https://discordapp.com/api/guilds/952035654831845457/widget.png)](https://discord.bringfeel.com)
+[![Discord](https://img.shields.io/discord/952035654831845457?color=%237289DA&style=for-the-badge)](https://discord.bringfeel.com)
 - 📫 Cómo contactarme:
   
   - Discord
