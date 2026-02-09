@@ -1,13 +1,15 @@
 <div align="center">
   
+# Francisco Santiago Vizgarra
+***A Backend Developer & Personal and Professional IT Technician***
+  
 [![PrView](https://komarev.com/ghpvc/?username=BringFeel&style=for-the-badge)](https://github.com/BringFeel)
 [![Discord](https://img.shields.io/discord/952035654831845457?color=%237289DA&style=for-the-badge)](https://discord.bringfeel.com) </p>
   
-<p><b>Javascript • Node.JS • Html • css •</b> (And a bit of <b>C++</b>)</p>
-<p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BringFeel&layout=compact&theme=light"></p>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BringFeel&bg_color=50,790000,002A80&title_color=7BA0FE&text_color=6AA5D9)
-<p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BringFeel&layout=compact&bg_color=50,790000,002A80&title_color=7BA0FE&text_color=6AA5D9""></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+<p><img src="https://skillicons.dev/icons?i=js,html,css,bash,powershell,bun,cloudflare,debian,discordjs,docker,expressjs,figma,git,gitlab,github,heroku,nginx,mysql,nodejs,npm,typescript,php,prisma,linux,windows,react,tailwind,vite,vitest,vscode,vscode)">
+</p>
 
 ›》 [bringfeel.com.ar](https://bringfeel.com.ar/) • [Support Server](https://discord.bringfeel.com) 《‹
 
@@ -15,7 +17,7 @@
    Discord\
   [BringFeel#8805](https://discord.com/users/489613817165381669)
   
-  Mail\
+  Email\
   [soporte@bringfeel.com.ar](mailto:soporte@bringfeel.com.ar)
 
 </div>
